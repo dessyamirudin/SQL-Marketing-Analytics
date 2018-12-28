@@ -12,9 +12,9 @@
 * Lesson 2-1 - Working with Date Data
   * Learning Objective: Convert data from string to date column from transaction data. Extract Month, Week, Day from Date Column
 * Lesson 2-2 - Observing Sales Trend
-  * Learning Objective: Aggregate transaction value based on Month, Week, Day and observe total sales, average sales. Observed for any seasonality pattern based on different time period
+  * Learning Objective: Aggregate transaction value based on Month, Week, Day and observe total sales and average sales. Observed for any seasonality pattern based on different time period
 * Lesson 2-3 - Sales Forecasting
-  * Learning Objective: Forecast sales using moving average and exponential smoothing.
+  * Learning Objective: Using PIVOT to see seasonality pattern. Forecast sales using moving average and exponential smoothing.
 
 ## Chapter 3 - Customer Analysis
 * Lesson 3-1 - Important metrics for customer analysis
